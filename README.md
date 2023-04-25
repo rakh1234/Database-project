@@ -8,3 +8,6 @@ This project will focus on The Ministry of National Guard Health Affairs databas
 
 ## Data Requirement:
 The database keeps track of two types of people: employee, patients.
+
+## Resources:
+* https://livesql.oracle.com/apex/f?p=590:1000
